@@ -10,16 +10,20 @@
 ##### Linear algebra
 * Univeristy notes by various authors [FER](https://www.fer.unizg.hr/)
 
+### Progress
+- [] Introduction to statistical learning
+- [] The elements of statistical learning
+- [] Linear algebra done right
 
-### Planned:
-* The elements of statistical learning
 
-### In progress:
-
-### Completed
+## Courses
+### Progress
+- [] https://www.r-bloggers.com/2014/09/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+- [] https://www.alsharif.info/iom530
+- [] Andrew Ng - Machine learning
 
 ## Programming languages
 ### Python
 ### C++
 ### R
-
+### MATLAB
