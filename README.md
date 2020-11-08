@@ -12,6 +12,7 @@
 
 ### Progress
 - [ ] Introduction to statistical learning
+    - [x] Chapter 02
 - [ ] The elements of statistical learning
 - [ ] Linear algebra done right
 
@@ -26,4 +27,7 @@
 ### Python
 ### C++
 ### R
+* read/write/parse data
+* plotting hist/scatter/bar
+* other basics
 ### MATLAB
