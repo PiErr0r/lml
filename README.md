@@ -12,8 +12,6 @@
 
 ### Progress
 - [ ] Introduction to statistical learning
-    - [x] Chapter 02
-    - [ ] Chapter 03
 - [ ] The elements of statistical learning
 - [ ] Linear algebra done right
 
@@ -21,7 +19,6 @@
 ## Courses
 ### Progress
 - [ ] Statistical learning @Stanford [STATSX0001](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning)
-- [ ] https://www.r-bloggers.com/2014/09/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 - [ ] https://www.alsharif.info/iom530
 - [ ] Andrew Ng - Machine learning
 
@@ -29,7 +26,4 @@
 ### Python
 ### C++
 ### R
-* read/write/parse data
-* plotting hist/scatter/bar
-* other basics
 ### MATLAB
