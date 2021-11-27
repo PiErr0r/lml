@@ -9,6 +9,7 @@
 
 ##### Linear algebra
 * Univeristy notes by various authors [FER](https://www.fer.unizg.hr/)
+* Linear algebra [MIT](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 
 ### Progress
 - [ ] Introduction to statistical learning
@@ -18,12 +19,7 @@
 
 ## Courses
 ### Progress
-- [ ] Statistical learning @Stanford [STATSX0001](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning)
+- [x] Statistical learning @Stanford [STATSX0001](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning)
 - [ ] https://www.alsharif.info/iom530
 - [ ] Andrew Ng - Machine learning
 
-## Programming languages
-### Python
-### C++
-### R
-### MATLAB
